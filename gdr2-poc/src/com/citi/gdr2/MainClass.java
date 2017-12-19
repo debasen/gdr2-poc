@@ -4,5 +4,6 @@ public class MainClass {
 	public static void main(String[] args) {
 		System.out.println("Code Changed!");
 		System.out.println("Code Changed Again2!");
+		System.out.println("Gives a hot fix");
 	}
 }
