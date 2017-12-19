@@ -7,5 +7,6 @@ public class MainClass {
 		System.out.println("Gives a hot fix");
 		System.out.println("Making changes for december release");
 		System.out.println("Some ready changes");
+		System.out.println("Made some more december release changes");
 	}
 }
